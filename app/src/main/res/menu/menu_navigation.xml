@@ -4,7 +4,7 @@
 	<item
 			android:id="@+id/actionNotificationItem"
 			android:orderInCategory="1"
-			android:title="@string/menu_item_notification"
+			android:title="@string/tab_item_history"
 			android:icon="@mipmap/ic_message_bulleted" />
 
 </menu>
